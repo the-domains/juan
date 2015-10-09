@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Juan]]></title>
+        <description><![CDATA[Juan]]></description>
+        <link>https://thegrid.ai/juan/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 09 Oct 2015 15:47:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/juan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lga3-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11825014_10154360461535190_3036233602395948019_n.jpg?oh=0e543cd87552ed60d9809be97aca83ab&oe=5694D749">]]></description>
+            <link>https://thegrid.ai/juan/dfd3f8c9-9034-4b51-a200-dfe06cd3d969/index.html</link>
+            <guid isPermaLink="false">dfd3f8c9-9034-4b51-a200-dfe06cd3d969</guid>
+            <pubDate>Fri, 09 Oct 2015 15:47:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
