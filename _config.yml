@@ -1,6 +1,7 @@
 name: Juan
 favicon: null
 layout_spectrum: 0.3697723331861198
+typography_spectrum: 0.3688874668441713
 cta:
   domain: null
   bucket: null
@@ -23,4 +24,3 @@ purpose:
   - name: awareness
     item: null
     url: null
-typography_spectrum: 0.3688874668441713
